@@ -3,4 +3,4 @@ This Discrete Optimization Project aims to solve a Peg Solitaire Problem, as you
 
 <center>
 ![alt text](http://www.gibell.net/pegsolitaire/diagonal/6MoveEnglishNormalBoard17Moves.gif)
-<\center>
+</center>
